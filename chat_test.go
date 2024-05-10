@@ -10,7 +10,7 @@ import (
 
 const (
 	cookie  = "xxx"
-	msToken = ""
+	msToken = "-re2-Rk0KLira05rHjPcrSq_KNdX4uwCnW1Vzs_T3F-UcfN3Ky86UEPGShwOUsbNzMr4UeNs8NqYPtGsLwHQxxo1XBDWgieb2yGLAJrCNLIrIh7hYUkFMQ=="
 )
 
 func TestCookie(t *testing.T) {
